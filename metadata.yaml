@@ -1,5 +1,8 @@
 _repo: The-Lost-City_783
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Badger, Jos. E. (Joseph Edward)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '413'
     url: http://www.gutenberg.org/2009/agents/413
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/783#The-Lost-City
 gutenberg_issued: '1997-01-01'
 gutenberg_type: Text
 identifiers:
